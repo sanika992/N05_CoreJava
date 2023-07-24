@@ -1,3 +1,5 @@
+//TO DEMONSTRATE TRENARY OPERATOR
+
 package org.tnisf.operators;
 
 import java.util.Scanner;
