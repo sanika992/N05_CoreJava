@@ -1,4 +1,4 @@
-package org.tnsid.hierachicalinheritance;
+package org.tnsif.hierachicalinheritance;
 //child class 2
 public class Tiramisu extends Andriod {
 	

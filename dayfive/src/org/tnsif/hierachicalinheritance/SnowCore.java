@@ -1,4 +1,4 @@
-package org.tnsid.hierachicalinheritance;
+package org.tnsif.hierachicalinheritance;
 //child class 3
 public class SnowCore extends Andriod{
 	

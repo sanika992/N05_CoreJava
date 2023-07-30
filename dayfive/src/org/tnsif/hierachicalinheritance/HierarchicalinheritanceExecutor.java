@@ -1,4 +1,4 @@
-package org.tnsid.hierachicalinheritance;
+package org.tnsif.hierachicalinheritance;
 
 public class HierarchicalinheritanceExecutor {
 
