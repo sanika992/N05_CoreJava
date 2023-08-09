@@ -8,7 +8,7 @@ public class InterfaceExecutor {
 		//DebitCard d =new DebitCard();
 		SBIDebitCard s= new SBIDebitCard();
 		s.displayCardDetails();
-		/*we can call default method of an interface using obj
+		/*we can call default method of an interface using object
 		 * of implementable class
 		 */
 		s.display();

@@ -4,6 +4,5 @@ public interface ColdDrink
 {
 	String name="mirinda";
 	void showDrinkName();
-	
 
 }
